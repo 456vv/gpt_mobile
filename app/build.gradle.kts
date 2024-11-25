@@ -15,9 +15,9 @@ android {
 
     defaultConfig {
         applicationId = "dev.chungjungsoo.gptmobile"
-        minSdk = 31
+        minSdk = 29
         targetSdk = 35
-        versionCode = 11
+        versionCode = 13
         versionName = "0.6.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
